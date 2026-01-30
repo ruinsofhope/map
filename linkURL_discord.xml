@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<news>
-  <story>
-    <link>https://discord.gg/2TjbZvZhmx</link>
-  </story>
-</news>
+<eihwaz.de>
+    <entry>
+        <link>https://discord.gg/2TjbZvZhmx</link>
+        <!-- Остальное оставляем как в шаблоне -->
+        <date>2024-01-01 12:00:00Z</date>
+        <title>Southern Cross Gaming Discord</title>
+        <text></text>
+        <imagerelpath></imagerelpath>
+    </entry>
+</eihwaz.de>
